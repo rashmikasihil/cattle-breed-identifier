@@ -1,6 +1,3 @@
-# cattle-breed-identifier
-A Streamlit-based web app that uses a deep learning model to identify cattle breeds from uploaded images and display breed-specific information.
-
 # 🐄 Cattle Breed Identifier
 
 This is a web application built with Streamlit and TensorFlow that allows users to upload an image of a cow and receive its predicted breed along with detailed breed-specific information.
